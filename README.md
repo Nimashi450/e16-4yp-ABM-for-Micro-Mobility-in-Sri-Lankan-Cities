@@ -37,4 +37,4 @@ environment, and economy
 
 - Dr. Damayanthi Herath, [email](mailto:damayanthiherath@eng.pdn.ac.lk)
 - Dr. Rajith Vidanaarachchi, [email](mailto:rajith.vidanaarachchi@unimelb.edu.au)
--	Dr. Samal Dharmarathna,[email] (mailto:samal@eng.pdn.ac.lk)
+-	Dr. Samal Dharmarathna, [email](mailto:samal@eng.pdn.ac.lk)
