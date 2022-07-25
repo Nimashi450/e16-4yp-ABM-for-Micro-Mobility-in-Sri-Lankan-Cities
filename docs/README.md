@@ -3,24 +3,25 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
+repository-name: e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities
 title:
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Agent based Model for Micro Mobility in Sri Lanka
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- E/16/039, Nimashi Uthpala, [email](mailto:e16039@eng.pdn.ac.lk)
+- E/16/087, Sachini Dissanayaka, [email](mailto:e16087@eng.pdn.ac.lk)
+- E/16/126, Naduni Hansika, [email](mailto:e16126@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Dr. Damayanthi Herath, [email](mailto:damayanthiherath@eng.pdn.ac.lk)
+- Dr. Rajith Vidanaarachchi, [email](mailto:rajith.vidanaarachchi@unimelb.edu.au)
+-	Dr. Samal Dharmarathna, [email](mailto:samal@eng.pdn.ac.lk)
 
 #### Table of content
 
